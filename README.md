@@ -34,5 +34,5 @@ The INTENT compilation series provides a platform for electronic and experimenta
 
 ## Roadmap
 
-This repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece), the 2023 iteration will include six "traditional" volumes released via Mahorka (Bulgaria), and three "sister" projects: "Absichten", "Itapli Ti Bia-Etea" and "uni.Sol_stice". INTIS (INTENT Insights) will be updated and moved to this repo, and materials pertaining to the INTENT survey will be available here as well. 
+This repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece), the 2023 iteration will include six "traditional" volumes released via Mahorka (Bulgaria), and three "sister" projects: "Absichten", "Itapli Ti Bia-Etea" and "uni.Sol_stice". INTIS (INTENT Insights) will be updated and moved to this repo, and materials pertaining to the INTENT survey will be available here, as well as the history of the project. 
 
