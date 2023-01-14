@@ -26,6 +26,7 @@ The INTENT compilation series provides a platform for electronic and experimenta
 * INTENT 2023: Kinetikos (Mahorka, TBA)
 * INTENT 2023: Eudaimonia (Mahorka, TBA)
 
+
 * Absichten (TBA)
 * Itapli Ti Bia-Etea (TBA)
 * uni.Sol_INTENT_82: uni.Sol_stice (uni.Sol_, TBA)
