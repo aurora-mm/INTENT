@@ -19,7 +19,7 @@ The INTENT compilation series provides a platform for electronic and experimenta
 * INTENT 2022: La Grâce Et La Réconciliation (Default Standard Records, TBA)
 * INTENT 2022/uni.Sol_: Nouveaux Commencements (Default Standard Records, TBA)
 * INTENT 2022: L'équilibre Dans La Vie (Default Standard Records, TBA)
-* [INTENT 2023: Anastasis](https://mahorka.bandcamp.com/album/intent-2023-anastasis) (Mahorka)
+* [INTENT 2023: Anastasis](https://mahorka.org/release/333) (Mahorka)
 * INTENT 2023: Psithurism (Mahorka, TBA)
 * INTENT 2023: Sennsucht (Mahorka, TBA)
 * INTENT 2023: Eunoia (Mahorka, TBA)
