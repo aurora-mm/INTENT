@@ -26,7 +26,7 @@ The INTENT compilation series provides a platform for electronic and experimenta
 20. INTENT 2023: Kinetikos (Mahorka, TBA)
 21. INTENT 2023: Eudaimonia (Mahorka, TBA)
 
-### Unnumbered Releases
+### Unnumbered ("Sister Compilations")
 
 - Absichten (TBA)
 - Itapli Ti Bia-Etea (TBA)
