@@ -21,7 +21,7 @@ The INTENT compilation series provides a platform for electronic and experimenta
 15. INTENT 2022: L'équilibre Dans La Vie (Default Standard Records, TBA)
 16. [INTENT 2023: Anastasis](https://mahorka.org/release/333) (Mahorka)
 17. INTENT 2023: Psithurism (Mahorka, TBA)
-18. INTENT 2023: Sennsucht (Mahorka, TBA)
+18. INTENT 2023: Sehnsucht (Mahorka, TBA)
 19. INTENT 2023: Eunoia (Mahorka, TBA)
 20. INTENT 2023: Kinetikos (Mahorka, TBA)
 21. INTENT 2023: Eudaimonia (Mahorka, TBA)
