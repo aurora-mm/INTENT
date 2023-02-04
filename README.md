@@ -22,9 +22,9 @@ The INTENT compilation series provides a platform for electronic and experimenta
 16. [INTENT 2023: Anastasis](https://mahorka.org/release/333) (Mahorka)
 17. [INTENT 2023: Psithurism](https://mahorka.org/release/334) (Mahorka)
 18. [INTENT 2023: Sehnsucht](https://mahorka.org/release/335) (Mahorka)
-19. INTENT 2023: Eunoia (Mahorka, TBA)
-20. INTENT 2023: Kinetikos (Mahorka, TBA)
-21. INTENT 2023: Eudaimonia (Mahorka, TBA)
+19. INTENT 2023: Eunoia (Mahorka, March 2023)
+20. INTENT 2023: Kinetikos (Mahorka, March/April 2023)
+21. INTENT 2023: Eudaimonia (Mahorka, March/April 2023)
 
 ### Unnumbered ("Sister Compilations")
 
