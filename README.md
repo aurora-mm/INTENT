@@ -20,19 +20,20 @@ The INTENT compilation series provides a platform for electronic and experimenta
 14. INTENT 2022/uni.Sol_: Nouveaux Commencements (Default Standard Records, TBA)
 15. INTENT 2022: L'équilibre Dans La Vie (Default Standard Records, TBA)
 16. [INTENT 2023: Anastasis](https://mahorka.org/release/333) (Mahorka)
-17. INTENT 2023: Psithurism (Mahorka, TBA)
-18. INTENT 2023: Sehnsucht (Mahorka, TBA)
+17. [INTENT 2023: Psithurism](https://mahorka.org/release/334) (Mahorka)
+18. [INTENT 2023: Sehnsucht](https://mahorka.org/release/335) (Mahorka)
 19. INTENT 2023: Eunoia (Mahorka, TBA)
 20. INTENT 2023: Kinetikos (Mahorka, TBA)
 21. INTENT 2023: Eudaimonia (Mahorka, TBA)
 
 ### Unnumbered ("Sister Compilations")
 
+- [uni.Sol_stice](https://unisol.bandcamp.com/album/uni-sol-stice) (uni.Sol_)
 - Absichten (TBA)
 - Itapli Ti Bia-Etea (TBA)
-- uni.Sol_INTENT_82: uni.Sol_stice (uni.Sol_, TBA)
+- Atoa Kečitripea (Internet Daemon, February 2023)
 
 ## Roadmap
 
-This repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece), the 2023 iteration will include six "traditional" volumes released via Mahorka (Bulgaria), and three "sister" projects: "Absichten", "Itapli Ti Bia-Etea" and "uni.Sol_stice". INTIS (INTENT Insights) will be updated and moved to this repo, and materials pertaining to the INTENT survey will be available here, as well as the history of the project. 
+This repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece), the 2023 iteration will include six "traditional" volumes released via Mahorka (Bulgaria), and three "sister" projects: "Absichten", "Itapli Ti Bia-Etea" and "Atoa Kečitripea". INTIS (INTENT Insights) will be updated and moved to this repo, and materials pertaining to the INTENT survey will be available here, as well as the history of the project. 
 
