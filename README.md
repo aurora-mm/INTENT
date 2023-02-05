@@ -30,8 +30,9 @@ The INTENT compilation series provides a platform for electronic and experimenta
 
 - [uni.Sol_stice](https://unisol.bandcamp.com/album/uni-sol-stice) (uni.Sol_)
 - Absichten (TBA)
-- Itapli Ti Bia-Etea (TBA)
 - Atoa Kečitripea (Internet Daemon, February 2023)
+- Itapli Ti Bia-Etea (TBA)
+- INTENT Selections (Mahorka, TBA)
 
 ## Roadmap
 
