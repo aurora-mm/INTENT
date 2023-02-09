@@ -29,8 +29,8 @@ The INTENT compilation series provides a platform for electronic and experimenta
 ### Unnumbered ("Sister Compilations")
 
 - [uni.Sol_stice](https://unisol.bandcamp.com/album/uni-sol-stice) (uni.Sol_)
-- Absichten (TBA)
 - Atoa Kečitripea (Internet Daemon, February 2023)
+- Ikrutetu Čiu Haidea (TBA)
 - Itapli Ti Bia-Etea (TBA)
 - INTENT Selections (Mahorka, TBA)
 
