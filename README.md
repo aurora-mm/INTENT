@@ -2,6 +2,8 @@
 
 The INTENT compilation series provides a platform for electronic and experimental music artists to share their work and set goals for the coming year, encouraging and inspiring creativity, innovation, and artistic vision from all corners of the globe. Since its launch in 2019, INTENT has become a powerful resource for artists aiming to realize their ambitions and monitor their progress over time. We are proud to continue providing INTENT as a compilation that goes beyond the ordinary, providing a truly transformative and ever-evolving experience.
 
+In conjunction with the project, two tools were created: [SForm](https://github.com/linfri/INTENT/SForm), a submission form application written in R (Shiny), and INTIS (INTENT Insights), a dashboard illustrating the global outreach of the project.
+
 ## Discography
 
 01. INTENT 2020: Solid State (Default Standard Records, TBA)
@@ -26,7 +28,7 @@ The INTENT compilation series provides a platform for electronic and experimenta
 20. INTENT 2023: Kinetikos (Mahorka, March/April 2023)
 21. INTENT 2023: Eudaimonia (Mahorka, March/April 2023)
 
-### Unnumbered ("Sister Compilations")
+### Unnumbered (Sister Projects)
 
 - [uni.Sol_stice](https://unisol.bandcamp.com/album/uni-sol-stice) (uni.Sol_)
 - [Atoa Kečitripea](https://internetdaemon.bandcamp.com/album/atoa-ke-itripea) (Internet Daemon)
@@ -36,5 +38,4 @@ The INTENT compilation series provides a platform for electronic and experimenta
 
 ## Roadmap
 
-This repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece), the 2023 iteration will include six "traditional" volumes released via Mahorka (Bulgaria), and three "sister projects". INTIS (INTENT Insights) will be updated and moved to this repo, and materials pertaining to the INTENT survey will be available here, as well as the history of the project. 
-
+Right now, this repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece). INTIS (INTENT Insights) will be updated, and materials pertaining to the INTENT survey will be available here, as well as the history of the project. 
