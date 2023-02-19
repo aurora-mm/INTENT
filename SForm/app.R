@@ -54,7 +54,7 @@ ui <- bulmaPage(
         bulmaTitle("Submission Form"),
 
         # Label name (changeable)
-        bulmaSubtitle("Kalamine Records")
+        bulmaSubtitle("INTENT")
       ),
       bulmaSection(
         bulmaTileAncestor(
