@@ -6,4 +6,4 @@ The data is available for the whole project as well as for the separate installm
 
 The dashboard can be downloaded [here](https://github.com/linfri/INTIS/blob/main/INTIS.html) as HTML file. Make sure to download the file via "Save Link As..."
 
-![](INTIS.png?raw=true)
+![](INTIS.png)
