@@ -4,38 +4,6 @@ The INTENT compilation series provides a platform for electronic and experimenta
 
 In conjunction with the project, two tools were created: [SForm](https://github.com/linfri/INTENT/tree/main/SForm), a submission form application written in R (Shiny), and [INTIS](https://github.com/linfri/INTENT/tree/main/INTIS) (INTENT Insights), a dashboard illustrating the global outreach of the project.
 
-## Discography
+## Latest Changes
 
-01. INTENT 2020: Solid State (Default Standard Records, TBA)
-02. INTENT 2020: Liquid State (Default Standard Records, TBA)
-03. INTENT 2020: Vapor State (Default Standard Records, TBA)
-04. INTENT 2021: Undertow (Default Standard Records, TBA)
-05. INTENT 2021: Chrysalism (Default Standard Records, TBA)
-06. INTENT 2021: Softshell (Default Standard Records, TBA)
-07. INTENT 2021: Flashover (Default Standard Records, TBA)
-08. INTENT 2021: Ardor (Default Standard Records, TBA)
-09. INTENT 2021: Open Sky (Default Standard Records, TBA)
-10. INTENT 2022: L'évolution Radicale (Default Standard Records, TBA)
-11. INTENT 2022: Surmonter L'adversité (Default Standard Records, TBA)
-12. INTENT 2022: Les Ténèbres Disparaissent (Default Standard Records, TBA)
-13. INTENT 2022: La Grâce Et La Réconciliation (Default Standard Records, TBA)
-14. INTENT 2022/uni.Sol_: Nouveaux Commencements (Default Standard Records, TBA)
-15. INTENT 2022: L'équilibre Dans La Vie (Default Standard Records, TBA)
-16. [INTENT 2023: Anastasis](https://mahorka.org/release/333) (Mahorka)
-17. [INTENT 2023: Psithurism](https://mahorka.org/release/334) (Mahorka)
-18. [INTENT 2023: Sehnsucht](https://mahorka.org/release/335) (Mahorka)
-19. INTENT 2023: Eunoia (Mahorka, March 2023)
-20. INTENT 2023: Kinetikos (Mahorka, March/April 2023)
-21. INTENT 2023: Eudaimonia (Mahorka, March/April 2023)
-
-### Unnumbered (Sister Projects)
-
-- [uni.Sol_stice](https://unisol.bandcamp.com/album/uni-sol-stice) (uni.Sol_)
-- [Atoa Kečitripea](https://internetdaemon.bandcamp.com/album/atoa-ke-itripea) (Internet Daemon)
-- Ikrutetu Čiu Haidea (Attenuation Circuit, TBA)
-- Itapli Ti Bia-Etea (Camembert Electrique, TBA)
-- INTENT Selections (Mahorka, TBA)
-
-## Roadmap
-
-Right now, this repository is, mildly said, a work in progress. The previous volumes of INTENT (2020-2022) are to be reissued via Default Standard Records (Greece). INTIS (INTENT Insights) will be updated, and materials pertaining to the INTENT survey will be available here, as well as the history of the project. 
+- The INTIS dashboard is now up to date!
