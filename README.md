@@ -11,3 +11,5 @@ Looking to the future, we are filled with hope and excitement for what lies ahea
 [2023-05-05] You can check out the backstory of the project in [Data Echoes](https://github.com/linfri/data-echoes) now.
 
 [2023-05-04] The [INTIS](https://github.com/linfri/INTENT/tree/main/INTIS) dashboard is all caught up! 
+
+[2023-02-19] The [SForm](https://github.com/linfri/INTENT/tree/main/SForm) app for collecting tracks is online again!
