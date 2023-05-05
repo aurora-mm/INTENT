@@ -6,4 +6,4 @@ In conjunction with the project, two tools were created: [SForm](https://github.
 
 ## Latest Changes
 
-[2023-05-04] The INTIS dashboard is now up to date! Also, the history behind the project is within Data Echoes now.
+[2023-05-04] The INTIS dashboard is all caught up! And you can check out the backstory of the project in [Data Echoes](https://github.com/linfri/data-echoes/blob/main/DataEchoes.html) now.
